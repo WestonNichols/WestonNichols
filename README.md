@@ -6,4 +6,4 @@
 Here are some ideas to get you started:
 
 - I’m currently learning Computer Science
-- 📫 How to reach me: weston_nichols@uri.edu
+- How to reach me: weston_nichols@uri.edu
